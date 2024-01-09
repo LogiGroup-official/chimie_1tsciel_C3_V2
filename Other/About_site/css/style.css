@@ -50,6 +50,19 @@ h1 {
 }
 p {
     font-size: 20px;
+    padding: 100px;
+    font-weight: 1000000;
+    color: #000000;
+}
+p1 {
+    font-size: 30px;
+    padding: 100px;
+    font-weight: 1000000;
+    color: #000000;
+}
+p2 {
+    font-size: 60px;
+    padding: 100px;
     font-weight: 1000000;
     color: #000000;
 }
